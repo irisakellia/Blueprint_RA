@@ -1,0 +1,21 @@
+Name,Type,Description,Quantity,Source/Link,Notes
+Base Frame,3D Model,Structural foundation of the robotic arm,1,075-robot.blend,Original model file
+Joint Servo,3D Model,Rotational joint section,3,N/A,Adjustable rotation limits
+Gripper,3D Model,End-effector for grasping objects,1,N/A,Custom designed
+Metal Texture,Texture,Brushed metal surface texture,1,https://ambientcg.com,Used for main body
+Emission Light,Shader,Adds LED indicator lighting,1,Built-in Blender shader,Brightness 5.0
+Camera,Blender Object,Main camera for renders,1,N/A,Set to 1080p resolution
+Light Key,Light,Primary illumination source,1,Built-in Blender light,Strength 3.0
+Light Fill,Light,Secondary fill lighting,1,Built-in Blender light,Strength 1.5
+Light Rim,Light,Edge lighting for depth,1,Built-in Blender light,Strength 2.0
+Arm Segment 1,3D Model,Upper arm section,1,N/A,Contains servo housing
+Arm Segment 2,3D Model,Forearm section,1,N/A,Contains servo housing
+Arm Segment 3,3D Model,Wrist section,1,N/A,Contains servo housing
+Gripper Finger,3D Model,Individual gripper finger,2,N/A,Articulated design
+Servo Motor,3D Model,Internal servo representation,3,N/A,Simplified geometry
+Cable Management,3D Model,Wire routing system,1,N/A,Realistic cable paths
+Base Plate,3D Model,Mounting surface,1,N/A,Threaded holes included
+Joint Bearing,3D Model,Rotation mechanism,3,N/A,Simplified bearing design
+Gripper Actuator,3D Model,Opening/closing mechanism,1,N/A,Linear actuator style
+LED Indicator,3D Model,Status light housing,4,N/A,Blue emission material
+Control Panel,3D Model,User interface surface,1,N/A,Button and display areas

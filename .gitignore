@@ -1,0 +1,72 @@
+# Blender temporary files
+*.blend1
+*.blend2
+*.blend3
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Blender specific
+*.blend1
+*.blend2
+*.blend3
+*.blend4
+*.blend5
+*.blend6
+*.blend7
+*.blend8
+*.blend9
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# Render cache
+render_cache/
+cycles_cache/
+
+# Addon files (if any)
+addons/
+scripts/
+
+# User preferences (optional - uncomment if you want to ignore)
+# userpref.blend
+
+# Large texture files (uncomment if you have large textures)
+# *.exr
+# *.hdr
+# *.tiff
+# *.tif
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Log files
+*.log
