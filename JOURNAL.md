@@ -12,3 +12,8 @@ This week I finalized the 3D robotic arm in Blender. I refined the gripper mecha
 ![render-front.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDY1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--62944381fb02cbd4a1def72a36f23c18b531faca/render-front.png)
   
 
+## 10/29/2025 - Calibrated servos and enhanced object gripping  
+
+ servo calibration for smoother, precise arm movement. Done Arduino code ,![render-side](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ4MywicHVyIjoiYmxvYl9pZCJ9fQ==--0bdb1715be8ac17d665abfe06c00059c29df5273/render-side.png)![render-front](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--cc2c0efc231ab346cd5348fb13fedb7263080ee4/render-front.png)
+tested gripper tips for better grip and stability. Next: add distance sensor.  
+
